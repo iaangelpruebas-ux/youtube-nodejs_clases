@@ -14,6 +14,7 @@ app.get("/json", (req, res) => {
     name: "Jon",
     age: 39,
     youtube: "@jonmircha",
+    angelito_pasado: "Reperturki"
   });
 });
 
